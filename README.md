@@ -1,7 +1,7 @@
 - 👋 Hi, I’m techykem
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning React, Javascript and SCSS
-- 💞️ I’m looking to collaborate on Real time front end development projects
+- 💞️ I’m looking to collaborate on Real time front end development projects in order to help me and you improve our skills
 - 📫 How to reach me at ikematfrontend@gmail.com
 
 <!---
