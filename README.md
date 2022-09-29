@@ -1,3 +1,5 @@
+![Header](./storage/emulated/0/Pictures/Canva/png_20220929_035402_0000.png)
+
 - 👋 Hi, I’m Okoye Prince 
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning React, Javascript and SCSS
