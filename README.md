@@ -1,5 +1,4 @@
-![Header](/storage/emulated/0/Pictures/Canva/png_20220929_035402_0000.png)
-
+![header](https://user-images.githubusercontent.com/108136348/192935076-7d39ad06-5054-451b-b0c4-1b9126742f86.jpeg)
 - 👋 Hi, I’m Okoye Prince 
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning React, Javascript and SCSS
