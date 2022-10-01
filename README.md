@@ -25,7 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ikemefuna123&border_radius=9.2" alt="ikemefuna123" /></p>
 <img src="https://github-readme-stats.vercel.app/api?username=ikemefuna123&show_icons=true&hide_border=false" alt="Stats" />
-<p> Thanks for visiting my Github Profile❤️ </p>
+<p> Thanks for visiting my Github Profile🙂 </p>
 
 <!---
 ikemefuna123/ikemefuna123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
